@@ -10,7 +10,7 @@ The objective of this assignment is to implement, evaluate, and deploy an end-to
 * **Number of Features:** 30 numeric features computed from digitized images (Satisfies the $\ge$ 12 requirement).
 
 ## c. GitHub Repository Link
-* **Repository URL:** 
+* **Repository URL:** https://github.com/SUGANYA-AIMLBITS/ML-Assignment2-2025ad05074/
 
 ## d. Models Used & Performance Comparison
 
